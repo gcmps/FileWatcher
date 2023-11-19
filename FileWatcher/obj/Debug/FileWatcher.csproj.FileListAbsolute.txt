@@ -1,0 +1,11 @@
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.Form1.resources
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.Properties.Resources.resources
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.ConfigFrm.resources
+C:\Users\Darth\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.AssemblyReference.cache
